@@ -1,4 +1,5 @@
-$('.slick').slick({
+ 
+  $('.slick').slick({
     infinite: true,
     speed: 300,
     slidesToShow: 1,
@@ -6,3 +7,4 @@ $('.slick').slick({
     autoplay: true,
     pauseOnHover: false
   });
+ 
